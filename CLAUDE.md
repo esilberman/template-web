@@ -20,6 +20,7 @@ application (SPA) using React Router.
 ├── package.json           # Project configuration and dependencies
 ├── tsconfig.json          # TypeScript configuration
 ├── vite.config.ts         # Vite configuration
+├── README.md              # Documentation
 ```
 
 ### Design System
