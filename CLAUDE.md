@@ -30,12 +30,16 @@ Global styles are in `src/index.css`.
 
 The project includes a comprehensive set of shadcn/ui components:
 
-- **Forms**: Input, Textarea, Select, Checkbox, Radio Group, Switch, Slider
-- **Data Display**: Card, Table, Badge, Alert, Avatar, Calendar
-- **Feedback**: Toast, Sonner, Dialog, Alert Dialog, Tooltip, Hover Card
-- **Navigation**: Navigation Menu, Breadcrumb, Tabs, Dropdown Menu, Menubar
-- **Layout**: Separator, Resizable, Scroll Area, Aspect Ratio, Collapsible
+- **Forms**: Input, Textarea, Select, Checkbox, Radio Group, Switch, Slider,
+  Button, Label, Form, Input OTP
+- **Data Display**: Card, Table, Badge, Alert, Avatar, Calendar, Data Table
+- **Feedback**: Toast, Sonner, Dialog, Alert Dialog, Tooltip, Hover Card, Drawer
+- **Navigation**: Navigation Menu, Breadcrumb, Tabs, Dropdown Menu, Menubar,
+  Pagination, Command, Context Menu, Sidebar
+- **Layout**: Separator, Resizable, Scroll Area, Aspect Ratio, Collapsible,
+  Sheet, Popover
 - **Utilities**: Skeleton, Progress, Accordion, Toggle, Toggle Group
+- **Data Visualization**: Chart, Carousel
 
 ### 2. State Management
 
