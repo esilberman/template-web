@@ -19,8 +19,7 @@ bun install
 bun run dev
 ```
 
-Open the dev server in your browser at `http://localhost:3000` (or another
-available port).
+Open the dev server in your browser at `http://localhost:3000` (or another available port).
 
 ### Production Build
 
